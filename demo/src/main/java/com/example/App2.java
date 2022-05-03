@@ -1,8 +1,8 @@
-package com.binarysearch;
+package com.example;
 
 import java.util.*;
 
-public class App {
+public class App2 {
 
   public static void main(String[] args) {
     // create tree
