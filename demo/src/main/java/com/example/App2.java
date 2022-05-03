@@ -34,6 +34,8 @@ public class App2 {
 
         // do binary search in the bst
         System.out.printf("Searching for the value %d\n", val);
+
+        
         // student needs to write code to
         // search tbe binary tree by calling Node.java's "search" method.
         // the variable "val" has the integer value to be searched for.
